@@ -1,0 +1,24 @@
+D:\Программирование\ИниСП 5\ИниСП 5\bin\Debug\ИниСП 5.exe
+D:\Программирование\ИниСП 5\ИниСП 5\bin\Debug\ИниСП 5.pdb
+D:\Программирование\ИниСП 5\ИниСП 5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Программирование\ИниСП 5\ИниСП 5\obj\x86\Debug\ИниСП 5.exe
+D:\Программирование\ИниСП 5\ИниСП 5\obj\x86\Debug\ИниСП 5.pdb
+D:\Программирование\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.exe
+D:\Программирование\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.pdb
+D:\Программирование\ИниСП 6\ИниСП 5\bin\Debug\ИниСП 5.exe
+D:\Программирование\ИниСП 6\ИниСП 5\bin\Debug\ИниСП 5.pdb
+D:\Программирование\ИниСП 6\ИниСП 5\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.exe
+G:\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.pdb
+D:\BSUIR\ИниСП и Прог\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.exe
+D:\BSUIR\ИниСП и Прог\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.pdb
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.exe
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.pdb
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 6\ИниСП 5\bin\Debug\ИниСП 5.exe
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 6\ИниСП 5\bin\Debug\ИниСП 5.pdb
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 6\ИниСП 5\obj\x86\Debug\ИниСП 5.csprojResolveAssemblyReference.cache
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 5f\ИниСП 5\obj\x86\Debug\ИниСП 5.exe
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 5f\ИниСП 5\obj\x86\Debug\ИниСП 5.pdb
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 5f\ИниСП 5\bin\Debug\ИниСП 5.exe
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 5f\ИниСП 5\bin\Debug\ИниСП 5.pdb
+C:\Users\GE62\Documents\Visual Studio 2015\Projects\ИниСП 5f\ИниСП 5\obj\x86\Debug\ИниСП 5.csprojResolveAssemblyReference.cache
